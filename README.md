@@ -9,7 +9,7 @@ ZDA-sem
 Jako milovnik sachu mam velky zajem o nejlepsi strtegii a nejproduktivnejsi kombinace, Rozhodl jsem se odpovedet na otazku "jak spravne zacit hru?"
 
 ## Task:
-Pouzit data z databaze online sachovnici www.lichess.com pro analyzu prvnich tahu, jeji frekvence opakovani a pravdepodobnosti vyhry pro stranu hrace a vizualizace vysledku.
+Pouzit data z databaze online sachovnici www.lichess.org pro analyzu prvnich tahu, jeji frekvence opakovani a pravdepodobnosti vyhry pro stranu hrace a vizualizace vysledku.
 
 ## Action:
 1) Naloadoval jsem si data za 3 mesice.
